@@ -1,0 +1,5 @@
+# For running the tests (no display needed).
+# Use a separate venv: do not mix opencv-python and opencv-python-headless.
+opencv-python-headless>=4.5
+numpy>=1.21
+pytest>=7.0

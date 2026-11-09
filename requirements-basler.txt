@@ -1,0 +1,5 @@
+# Core dependencies + Basler camera support.
+# pypylon wheels include the pylon runtime on most platforms.
+# Install the Basler pylon Camera Software Suite if your camera is not found.
+-r requirements.txt
+pypylon>=2.0

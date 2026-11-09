@@ -1,0 +1,6 @@
+# Minimal config: this project is a single script, not an installable package.
+# This file only holds tool settings.
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
